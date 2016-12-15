@@ -1,0 +1,7 @@
+media.handler.file:
+  type: media.handler.field_aware
+  label: 'File handler configuration'
+  mapping:
+    test_config_value:
+      type: string
+      label: 'Test config value'

@@ -1,0 +1,6 @@
+name: 'File media handler'
+type: module
+description: 'Provides test media handler to test configuration forms.'
+core: 8.x
+package: Testing
+version: VERSION
